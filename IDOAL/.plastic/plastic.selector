@@ -1,0 +1,4 @@
+repository "IDOAL@joel1322@cloud"
+  path "/"
+    br "/main"
+    co "/main"
